@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Jaymin Solanki 👋
 
-<!--
-**jaymin1310/jaymin1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | ⚙️ Backend-Focused | 🧠 DSA Enthusiast  
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student (3rd Year)  
+Birla Vishvakarma Mahavidyalaya (BVM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I enjoy building scalable backend systems and solving complex problems with clean, efficient code.
+
+- 🔐 Building a production-ready Task Manager (React + Spring Boot + JWT + PostgreSQL)
+- 🏗️ Learning Spring Boot Microservices & System Design
+- 🧩 Solving Data Structures & Algorithms daily (C++)
+- 🌍 Built a Flask-based data management system during internship
+
+---
+
+## 🛠 Tech Stack
+
+### 💡 Languages
+Java • C++ • JavaScript
+
+### 🎨 Frontend
+React • HTML • CSS
+
+### ⚙️ Backend
+Spring Boot • Spring Security • REST APIs • JWT • Hibernate / JPA
+
+### 🗄️ Database
+PostgreSQL • MySQL
+
+### 🧰 Tools
+Git • Maven • Postman • IntelliJ IDEA • VS Code
+
+---
+
+## 📌 Current Focus
+
+- Writing production-ready backend code  
+- Authentication & Authorization systems  
+- REST API best practices  
+- Microservices fundamentals  
+- Advanced problem solving  
+
+---
+
+## 📊 GitHub Stats
+
+![Jaymin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymin1310&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaymin1310&layout=compact&hide_border=true)
+
+---
+
+## 🌐 Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/jaymin-solanki-555b6a2b3
+
+---
+
+> "Consistency beats motivation."
