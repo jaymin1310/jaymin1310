@@ -24,7 +24,7 @@ I enjoy building scalable backend systems and solving complex problems with clea
 Java • C++ • JavaScript
 
 ### 🎨 Frontend
-React • HTML • CSS
+React • HTML • CSS • JS
 
 ### ⚙️ Backend
 Spring Boot • Spring Security • REST APIs • JWT • Hibernate / JPA
