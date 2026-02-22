@@ -49,14 +49,15 @@ Git • Maven • Postman • IntelliJ IDEA • VS Code
 
 ## 📊 GitHub Stats
 
-![Jaymin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymin1310&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaymin1310&layout=compact&hide_border=true)
+![Jaymin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaymin1310&theme=github)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaymin1310&theme=github)
 
 ---
 
 ## 🌐 Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/jaymin-solanki-555b6a2b3
+📧 Email: jvsolanki2005@gmail.com
 
 ---
 
